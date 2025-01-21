@@ -129,7 +129,12 @@ const SideBar = ({
         </div>
       </div>
       <div className="bottom">
+<<<<<<< HEAD
         
+=======
+        <p>© 2023 Made By</p>
+        <p>@theblockchaincoders</p>
+>>>>>>> 4d4eb06a4c840de7002d161ef18431fe69e2ec1e
       </div>
     </div>
   );

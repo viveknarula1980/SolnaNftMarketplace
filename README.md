@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full-Stack Solana Blockchain NFT Marketplace DApp
 
 Build and Deploy a Full-Stack Solana Blockchain NFT Marketplace DApp with Next.js, Context API, and Metaplex
@@ -216,3 +217,6 @@ NEXT_PUBLIC_NFT_LISTING_FEE = 1
 
 
 ```
+=======
+
+>>>>>>> 4d4eb06a4c840de7002d161ef18431fe69e2ec1e

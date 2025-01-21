@@ -218,9 +218,15 @@ const Create = ({ setLoader }) => {
       data: {
         network: "devnet",
         transaction_fee: 10,
+<<<<<<< HEAD
         fee_payer: "DUUr2mo7gTbVdDNnzVHsLZ9A8izpKMEc8rgb4BvJbKNG",
         fee_recipient: "DUUr2mo7gTbVdDNnzVHsLZ9A8izpKMEc8rgb4BvJbKNG",
         creator_wallet: "DUUr2mo7gTbVdDNnzVHsLZ9A8izpKMEc8rgb4BvJbKNG",
+=======
+        fee_payer: "27FHSrcXWrEk66BmM6JtP1HjqSDaGR7v6jzbsiq1hXaQ",
+        fee_recipient: "27FHSrcXWrEk66BmM6JtP1HjqSDaGR7v6jzbsiq1hXaQ",
+        creator_wallet: "27FHSrcXWrEk66BmM6JtP1HjqSDaGR7v6jzbsiq1hXaQ",
+>>>>>>> 4d4eb06a4c840de7002d161ef18431fe69e2ec1e
       },
     })
       // Handle the response from backend here
@@ -390,8 +396,13 @@ const Create = ({ setLoader }) => {
 
                     <div className="btn-submit flex gap30 justify-center">
                       <button
+<<<<<<< HEAD
                         // onClick={() => window.location.reload()}
                         onClick={() => createMarketplace()}
+=======
+                        onClick={() => window.location.reload()}
+                        // onClick={() => createMarketplace()}
+>>>>>>> 4d4eb06a4c840de7002d161ef18431fe69e2ec1e
                         className="tf-button style-1 h50 active"
                       >
                         Reload

@@ -6212,4 +6212,8 @@ fieldset.password > i::before {
 .section-menu-left ul.menu-tab li.active svg:last-child path, .section-menu-left ul.menu-tab li:hover svg:last-child path,
 .notification svg circle {
   fill: #00eacf !important;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 4d4eb06a4c840de7002d161ef18431fe69e2ec1e
