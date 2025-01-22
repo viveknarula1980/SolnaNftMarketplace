@@ -3,7 +3,7 @@
 
 Build and Deploy a Full-Stack Solana Blockchain NFT Marketplace DApp with Next.js, Context API, and Metaplex
 
-Learn how to build and deploy a full-stack NFT marketplace on the Solana blockchain using Next.js, Context API, and Metaplex. This comprehensive guide covers setting up your development environment, integrating Metaplex for NFT creation, managing state with Context API, and deploying your marketplace. Perfect for developers looking to leverage Solana’s speed and low fees to launch a scalable NFT platform.
+ This comprehensive guide covers setting up your development environment, integrating Metaplex for NFT creation, managing state with Context API, and deploying your marketplace. Perfect for developers looking to leverage Solana’s speed and low fees to launch a scalable NFT platform.
 
 #### Install Vs Code Editor
 
