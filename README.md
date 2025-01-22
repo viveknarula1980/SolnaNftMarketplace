@@ -1,25 +1,9 @@
-<<<<<<< HEAD
+
 # Full-Stack Solana Blockchain NFT Marketplace DApp
 
 Build and Deploy a Full-Stack Solana Blockchain NFT Marketplace DApp with Next.js, Context API, and Metaplex
 
 Learn how to build and deploy a full-stack NFT marketplace on the Solana blockchain using Next.js, Context API, and Metaplex. This comprehensive guide covers setting up your development environment, integrating Metaplex for NFT creation, managing state with Context API, and deploying your marketplace. Perfect for developers looking to leverage Solana’s speed and low fees to launch a scalable NFT platform.
-
-## Project Overview
-
-![alt text](https://www.daulathussain.com/wp-content/uploads/2024/10/Full-Stack-Solana-Blockchain-NFT-Marketplace-DApp.jpeg)
-
-Kindly follow the following Instructions to run the project in your system and install the necessary requirements
-
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-solana-nft-creator-dapp-with-next.js-phantom-wallet-and-metaplex-or-solana-blockchain-dapp)
-
-#### Setup Video
-
-- [Final Code Setup video](https://youtu.be/jMxvW_SfVBM?si=FRs7WwYdL5-cCx1O)
-
-```
-  WATCH: Setup & Demo Of Project
-```
 
 #### Install Vs Code Editor
 
@@ -34,37 +18,7 @@ Kindly follow the following Instructions to run the project in your system and i
   NodeJs: v18.12.1 || LATEST
   NPM: 8.19.2 || LATEST
   URL: https://nodejs.org/en/download
-```
-
-#### Clone Starter File
-
-```
-  GET: Project Starter File Download
-  URL: https://github.com/daulathussain/Solana-NFT-Marketpace-Starter-File
-```
-
-All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
-
-## Final Code Instruction
-
-If you download the final source code then you can follow the following instructions to run the Dapp successfully
-
-#### What You Will Get
-
-Once you download the final source code, you will get a ZIP file, in that you will have 2 FOLDERS & README file which contain all the instructions to run the project and set video
-
-#### Setup Video
-
-```
-  WATCH: Setup & Demo Of Project
-```
-
-#### Final Source Code
-
-```
- FINAL CODE: Download the Final Source Code
- STARTER FILE: https://github.com/daulathussain/Solana-NFT-Marketpace-Starter-File
-```
+``
 
 #### Install Vs Code Editor
 
@@ -212,11 +166,3 @@ NEXT_PUBLIC_RECEVIED_FEE =
 NEXT_PUBLIC_NFT_BUY_FEE = 1
 NEXT_PUBLIC_NFT_LISTING_FEE = 1
 
-
-# TRANSACTION HAST 2kTdiZ4ejWT84nzbTqa1Wd6nfk9QJJrN5CiTBEegRth8Nk3mQJ3uWG2o2GaPFx8NCoehLAe1Ri6VsDy1YQ5x7pQK
-
-
-```
-=======
-
->>>>>>> 4d4eb06a4c840de7002d161ef18431fe69e2ec1e
