@@ -117,7 +117,7 @@ We are using Solana Playground for deploying the contract and generation of the 
     "react-dom": "18.2.0",
     "react-dropzone": "^14.2.3",
     "react-hot-toast": "^2.4.1",
-    "react-icons": "^4.10.1"
+    
   }
 }
 
