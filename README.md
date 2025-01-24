@@ -123,8 +123,6 @@ We are using Solana Playground for deploying the contract and generation of the 
 
 ```
 
-#### ENV.LOCAL
-
 ```
 # PINATE KEYS
 NEXT_PUBLIC_PINATA_AIP_KEY =
