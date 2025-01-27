@@ -21,11 +21,6 @@ Build and Deploy a Full-Stack Solana Blockchain NFT Marketplace DApp with Next.j
 ``
 
 #### Install Vs Code Editor
-
-
-## Contributing:
-
-Contributions are welcome! Please open an issue to discuss proposed changes or submit a pull request.
 ```
   GET: VsCode Editor
   URL: https://code.visualstudio.com/download
@@ -154,4 +149,8 @@ NEXT_PUBLIC_FEE = 0.005
 NEXT_PUBLIC_RECEVIED_FEE =
 NEXT_PUBLIC_NFT_BUY_FEE = 1
 NEXT_PUBLIC_NFT_LISTING_FEE = 1
+
+## Contributing:
+
+Contributions are welcome! Please open an issue to discuss proposed changes or submit a pull request.
 
