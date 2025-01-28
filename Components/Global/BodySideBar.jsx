@@ -165,14 +165,7 @@ const BodySideBar = ({ reCall }) => {
         </>
       )}
 
-      {/* <div className="widget widget-coins">
-        <h5 className="title-widget">Trending coins</h5>
-        <TrendingCoins name={"Bitcoin"} index={1} image={"coin-01.png"} />
-        <TrendingCoins name={"Ethereum"} index={2} image={"coin-02.png"} />
-        <TrendingCoins name={"Cardano"} index={3} image={"coin-03.png"} />
-        <TrendingCoins name={"Solana"} index={4} image={"coin-04.png"} />
-        <TrendingCoins name={"Litecoin"} index={5} image={"coin-05.png"} />
-      </div> */}
+      
       {orderHistory.length > 0 && (
         <div className="widget widget-history">
           <div className="flex items-center justify-between">
