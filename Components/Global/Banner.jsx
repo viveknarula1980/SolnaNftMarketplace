@@ -28,6 +28,7 @@ const MarketBanner = () => {
           <div className="swiper-wrapper">
             <div className="swiper-slide">
               <img src="assets/images/item-background/bg-action-1.png" alt="" />
+{/*               <img src="assets/images/item-background/bg-action-2.png" alt="" /> */}
             </div>
           </div>
         </div>
